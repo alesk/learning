@@ -53,9 +53,7 @@ book [A Mind for Numbers][7] by Barbara Oakley:
   9. Thinking you can learn deeply when you are being constantly distracted.
   10. Not getting enough sleep.
 
-** A list of bad studing practices
-
-## Break the spell of giftedness
+## Break the Spell of Giftedness
 
 We all start with different gifts and talents but the results we achieve 
 later in life correlates with natural abilities much weaker we used to belive.
@@ -80,9 +78,9 @@ debate about the role of giftedness:
 
 > Intelligence is like a knife. If you are intelligent, you are at a clear advantage against people who are not intelligent. But if you are intelligent, and another person is not as intelligent, but the other person is willing to train harder than you, the other person will very quickly overtake you in ability.
 
-## The Faynmann method
+## The Learning Method of Richard Feynmann
 
-One of most famous physicist of 20th century Richard Feynman openly talked 
+One of most famous physicist of 20th century Richard Feynmann openly talked 
 about his method of acquiering knowledge in a series of essays 
 [Surely you are joking, mr. Feynmann][6].
 
@@ -119,6 +117,20 @@ Here is a excrept of 10 rules of good studyng from the book
   9. Eat your frogs first.
   10. Make a mental contrast.
 
+## Don't just go shopping, commit and get job done
+
+When I first came to the Cursera Site, I found lots of intersting course. 
+I picked a dozen of them and, you guessed, finished none. Mostly, I watched 2 or 3 videos and the lost
+interest. This is not a way to go.
+
+Later, frustrated by a failure to complete a single course, I decided, to does
+one at a time, just one. I signed for the Data Analysis and Statistical Inference
+and to boost motivation even more, I paid for the Verified
+Certificate. I worked a lot, much more than I anticipated at the beginning,
+but it was worth. I completed the course with 98% and recive the certificate with distinction.
+Than I took another course, and another, and another.
+
+Today, I am a happy camper at Coursera, Udacity and EdEx. What about you?
 
 
 [1]: http://www.jamiebegin.com/high-iq-will-kill-startup/
