@@ -78,14 +78,14 @@ debate about the role of giftedness:
 
 > Intelligence is like a knife. If you are intelligent, you are at a clear advantage against people who are not intelligent. But if you are intelligent, and another person is not as intelligent, but the other person is willing to train harder than you, the other person will very quickly overtake you in ability.
 
-## The Learning Method of Richard Feynmann
+## The Learning Method of Richard Feynman
 
-One of most famous physicist of 20th century Richard Feynmann openly talked 
+One of most famous physicist of 20th century Richard Feynman openly talked 
 about his method of acquiering knowledge in a series of essays 
-[Surely you are joking, mr. Feynmann][6].
+[Surely you are joking, mr. Feynman][6].
 
 Scott H. Young, dubbed "Marco Polo" of leargning in the Course interview, 
-presented [Feynmann method on his blog in a short video][5].
+presented [Feynman method on his blog in a short video][5].
 
 The gist of the method is, to try to explain an idea on a piece of paper
 as trying to teach it to someone. Whenever you stop, or your explanation
@@ -138,6 +138,6 @@ Today, I am a happy camper at Coursera, Udacity and EdEx. What about you?
 [3]: http://www.amazon.com/You-Are-Not-So-Smart-ebook/dp/B009DEGBZC/ref=sr_1_1?s=books&ie=UTF8&qid=1409079026&sr=1-1&keywords=you+are+not+so+smart
 [4]: http://blogs.hbr.org/2011/11/the-trouble-with-bright-kids/
 [5]: http://www.scotthyoung.com/blog/2011/09/01/learn-faster/
-[6]: http://www.amazon.com/Surely-Youre-Joking-Feynman-Adventures-ebook/dp/B00MPMWQ8U/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1409081315&sr=1-1-spell&keywords=surely+you+are+joknig+mr+feynmann
+[6]: http://www.amazon.com/Surely-Youre-Joking-Feynman-Adventures-ebook/dp/B00MPMWQ8U/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1409081315&sr=1-1-spell&keywords=surely+you+are+joknig+mr+feynman
 [7]: http://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU/ref=sr_1_1?s=books&ie=UTF8&qid=1409082460&sr=1-1&keywords=mind+for+numbers
 [8]: https://www.coursera.org/course/learning
