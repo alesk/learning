@@ -63,8 +63,9 @@ by telling her how smart she is. First, it's quite demotivating for there is
 really nothing one can do about being or not being smart, it's all inherited.
 And there is more. A kid percieved as smart instinctively avoids hard problems
 which could cast some doubt about the public image he/she is destined to bear.
+This phenomenom even has a name and it's called the [imposter syndrome][9]
 
-As [Dweck and Mueller found out in their study][3], the kids that were praised for
+As [Dweck and Mueller found out in their study][3], that the kids that were praised for
 being smart did about 25% worse at the set of problems as those praised
 for their effort.
 
@@ -77,6 +78,23 @@ debate about the role of giftedness:
 > The man with the knife did not know how to use that knife. If he had been as trained in knife fighting as I was in hand combat, he would have been able to destroy me. But he had a tool that he felt gave him an advantage, but it’s nothing compared to a person who has no tool, but has worked to develop what he has.
 
 > Intelligence is like a knife. If you are intelligent, you are at a clear advantage against people who are not intelligent. But if you are intelligent, and another person is not as intelligent, but the other person is willing to train harder than you, the other person will very quickly overtake you in ability.
+
+Being smarter means your working memmory is bigger. You may have a place for more
+than just 4 chunks but on the other hand with bigger working memory it's easier to
+fell pray of [einstellung effect][10], the phenomenon where the idea already present in your mind is
+blocking fresh thoughts.
+
+With some smaller working memory, one is forced to retreat to a quiet place to be able to focus
+and which opens the door for creativity. Somewhat smaller working memory also means that the prefrontal cortex
+doesn't lock up everything so tightly and it easier gets input for other parts of the brain.
+
+If often argue with my colegues about the importance of simplicity and all sorts of trouble one gets into by 
+by tolerating (mostly unnecessary excesive) complexity. Your may easily be able to "juggle" with 7 or even 9 (but not 50) balls
+with your working memory but you can just as easy create an overly complex system that requires much greater number of chuncks
+to be held in working memory at once rendering the subject practically incomprihensive.
+
+Rich Hickey addresed this trap in his famous speech [Simple Made Easy][11]. It's worth watching even if you don't come from
+the computer science field.
 
 ## The Learning Method of Richard Feynman
 
@@ -121,9 +139,12 @@ Here is a excrept of 10 rules of good studyng from the book
 
 When I first came to the Cursera Site, I found lots of intersting course. 
 I picked a dozen of them and, you guessed, finished none. Mostly, I watched 2 or 3 videos and the lost
-interest. This is not a way to go.
+interest. I leater recognised this effect as someone masked [procrastination][12]. Every time, were there was
+an obstacle requireing to put in some effort to change my brain, I quit and change the attention to some
+easier subject offering me the relief from the (brain changing) pain and a ["marshmellow to eat" now
+instead of two at a later time][13].
 
-Later, frustrated by a failure to complete a single course, I decided, to does
+Frustrated by a failure to complete a single course, I decided, to do just
 one at a time, just one. I signed for the Data Analysis and Statistical Inference
 and to boost motivation even more, I paid for the Verified
 Certificate. I worked a lot, much more than I anticipated at the beginning,
@@ -141,3 +162,8 @@ Today, I am a happy camper at Coursera, Udacity and EdEx. What about you?
 [6]: http://www.amazon.com/Surely-Youre-Joking-Feynman-Adventures-ebook/dp/B00MPMWQ8U/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1409081315&sr=1-1-spell&keywords=surely+you+are+joknig+mr+feynman
 [7]: http://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU/ref=sr_1_1?s=books&ie=UTF8&qid=1409082460&sr=1-1&keywords=mind+for+numbers
 [8]: https://www.coursera.org/course/learning
+[9]: http://en.wikipedia.org/wiki/Impostor_syndrome
+[10]: http://en.wikipedia.org/wiki/Einstellung_effect
+[11]: http://www.infoq.com/presentations/Simple-Made-Easy
+[12]: http://en.wikipedia.org/wiki/Procrastination
+[13]: http://en.wikipedia.org/wiki/Stanford_marshmallow_experiment
