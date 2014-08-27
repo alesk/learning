@@ -8,7 +8,7 @@ some more real world examples that supports the learning patterns the course adv
 additional examples serve to boost motivation and make the readers of the essay more likely to investigate the subject
 further.
 
-## A list of chapters and their relation to the topcis of the course
+## A list of course related chapters 
 
 There is a list of chapters where the topics from the course are addressed. The bolded topics
 are considered the main ones.
