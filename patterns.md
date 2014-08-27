@@ -139,17 +139,17 @@ Here is a excrept of 10 rules of good studyng from the book
 
 ## Commit and Get Job Done
 
-When I first came to the Cursera Site, I found lots of intersting course. 
+When I first came to the Cursera Site, I found lots of intersting courses. 
 I picked a dozen of them and, you guessed, finished none. Mostly, I watched 2 or 3 videos and the lost
-interest. I leater recognised this effect as someone masked [procrastination][12]. Every time, were there was
+interest. I leater recognised this effect as somehow masked [procrastination][12]. Every time, were there was
 an obstacle requireing to put in some effort to change my brain, I quit and change the attention to some
-easier subject offering me the relief from the (brain changing) pain and a ["marshmellow to eat" now
+easier subject offering me the relief from the (brain changing) pain and reward me with a ["single marshmellow now
 instead of two at a later time][13].
 
 Frustrated by a failure to complete a single course, I decided, to do just
 one at a time, just one. I signed for the Data Analysis and Statistical Inference
-and to boost motivation even more, I paid for the Verified
-Certificate. I worked a lot, much more than I anticipated at the beginning,
+and to boost motivation even more, I paid for the verified
+certificate. I worked a lot, much more than I anticipated at the beginning,
 but it was worth. I completed the course with 98% and recive the certificate with distinction.
 Than I took another course, and another, and another.
 
