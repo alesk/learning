@@ -1,9 +1,9 @@
 # Patterns And Antipatterns of Learning
 
 This essay is written as the Peear Assessment project for the MOOC [Learning how to learn](https://www.coursera.org/course/learning
-) taught by Terrence Sejnowsky and Barbara Oakley.
+) taught by Dr. Terrence Sejnowski and Dr. Barbara Oakley.
 
-Besides the refference to some important topics taught in the course, I tried to bring in
+Besides the reference to some important topics taught in the course, I tried to bring in
 some more real world examples that supports the learning patterns the course advocates. This
 additional examples serve to boost motivation and make the readers of the essay more likely to investigate the subject
 further.
