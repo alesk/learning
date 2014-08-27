@@ -1,13 +1,17 @@
+# Patterns And Antipatterns of Learning
+
 This essay is written as the Peear Assessment project for the MOOC [Learning how to learn](https://www.coursera.org/course/learning
 ) taught by Terrence Sejnowsky and Barbara Oakley.
 
-Besides the refference to some important subjects taught in this course, I tried to bring in
-some more real world examples that supports the learning patterns the course advocates to
-boost motivation and make the readers of the essay more likely to investigate the subject
+Besides the refference to some important topics taught in the course, I tried to bring in
+some more real world examples that supports the learning patterns the course advocates. This
+additional examples serve to boost motivation and make the readers of the essay more likely to investigate the subject
 further.
 
-There is a list of chapters where the topics from the course are addressed. The bolded topic
-is considered the main one but list includes the additional ones as well.
+## A list of chapters and their relation to the topcis of the course
+
+There is a list of chapters where the topics from the course are addressed. The bolded topics
+are considered the main ones.
 
 1. Break the spell of giftedness: **imposter syndrome** + chunking, einstellung effect,
   focused and diffuse mode of thinking
@@ -21,4 +25,6 @@ are just turned to hyperlinks at the relevant places in the document. This holds
 for the purely internet resource (blog posts, lecturing videos) as for the books for which the
 Amazon page of the book is referenced.
 
-[I hope you'll enjoy reading the Essay](github.com/alesk/learning/pattern-antipattern.md).
+Here is the link to the raw document which [reveals the citations](https://raw.githubusercontent.com/alesk/learning/master/patterns.md).
+
+[I hope you'll enjoy reading the Essay](https://github.com/alesk/learning/blob/master/patterns.md).
