@@ -98,7 +98,7 @@ the computer science field.
 
 ## The Learning Method of Richard Feynman
 
-One of most famous physicist of 20th century Richard Feynman openly talked 
+Richard Feynman, one of most famous and influental physicists of 20th century, openly talked 
 about his method of acquiering knowledge in a series of essays 
 [Surely you are joking, mr. Feynman][6].
 
@@ -113,11 +113,19 @@ At this point go back to the reference material and try to study a bit more
 to come up with better explanation.
 
 It's worth noting that one must try to explanin the subject first **without looking
-at the reference** for this is the only way to demonstrate deep knowledge.
+at the reference** for this is the only way to demonstrate deep knowledge. Spotting
+weak points and overcoming these weaknesses with more learning/training is also called the
+[deliberate practice][14].
 
 This method also resonates with my favorite bullet of the 10 rules of good studyng:
 **use recall**. I cant emphasize enough how importan it is to generate (not just reproduce) the 
 answers and explanations entirely from your brain.
+
+These teaching lessons to "imaginary friend" accompained with frequent short tests where failure
+is the most commona and praise result is a perfect way to avoid the so called **illusions of Learning**.
+The "illusions of leargning" is a common trap for students wich just skim through the steps of problem
+solving without demonstrating (to themselves) that they are able to solve the problem with pen and paper
+without reffering to the study material.
 
 ## The 10 good habits of studyng
 
@@ -135,7 +143,7 @@ Here is a excrept of 10 rules of good studyng from the book
   9. Eat your frogs first.
   10. Make a mental contrast.
 
-## Don't just go shopping, commit and get job done
+## Commit and Get Job Done
 
 When I first came to the Cursera Site, I found lots of intersting course. 
 I picked a dozen of them and, you guessed, finished none. Mostly, I watched 2 or 3 videos and the lost
@@ -151,7 +159,13 @@ Certificate. I worked a lot, much more than I anticipated at the beginning,
 but it was worth. I completed the course with 98% and recive the certificate with distinction.
 Than I took another course, and another, and another.
 
-Today, I am a happy camper at Coursera, Udacity and EdEx. What about you?
+I allso start using the pomodoro technique which requires one to split learning time to
+25 minutes long higly focused segments interleaved by 5-10 minute long breaks to relax
+and switch the brains from focused to diffused mode. This is also very efficient technique to fight
+procrastination.
+
+Today, I am a happy camper at Coursera, Udacity and EdEx and I am enjoying traveling the senic road
+of life-long learning and broadening of my passions. Would you like to join?
 
 
 [1]: http://www.jamiebegin.com/high-iq-will-kill-startup/
@@ -167,3 +181,4 @@ Today, I am a happy camper at Coursera, Udacity and EdEx. What about you?
 [11]: http://www.infoq.com/presentations/Simple-Made-Easy
 [12]: http://en.wikipedia.org/wiki/Procrastination
 [13]: http://en.wikipedia.org/wiki/Stanford_marshmallow_experiment
+[14]: http://expertenough.com/1423/deliberate-practice
